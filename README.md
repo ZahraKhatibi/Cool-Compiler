@@ -25,7 +25,6 @@ Welcome to the Classroom Object Oriented Language (COOL) Compiler project! This 
 
 This project is inspired by a well-known assignment from Stanford University. We utilized their base code as a starting point and have detailed our contributions in this README. We've also tested our code with the Stanford grader, achieving near-passing results on all tests.
 
-For comprehensive README files and complete code examples, please explore the folders within this project. You'll find useful resources and PDFs that provide further insights.
 
 ## Built With
 - C++
