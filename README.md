@@ -32,12 +32,6 @@ This project is inspired by a well-known assignment from Stanford University. We
 - Bison
 
 ## Getting Started
-### Prerequisites
-- Docker
-- Lukewarm (Bonus: A complete tutorial on how to get started with Docker and how to use Lukewarm in Persian.)
-
-## Usage
-For detailed information on each project within this compiler course, please refer to the respective README files in each folder.
 
 ### A Stack Machine written in COOL
 We've created a primitive stack machine in COOL. This machine operates with a single stack for storage and includes basic commands for programming.
