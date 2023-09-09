@@ -7,7 +7,6 @@
   - [Phase Two: Parser with Bison](#phase-two-parser-with-bison)
   - [Phase Three: Semantical Analysis](#phase-three-semantical-analysis)
 - [Built With](#built-with)
-- [Contact](#contact)
 
 ## About The Project
 Welcome to the Classroom Object Oriented Language (COOL) Compiler project! This project is part of a compiler course, aiming to design a compiler for COOL, a unique programming language. Here's an overview of what this project entails:
