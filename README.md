@@ -1,5 +1,5 @@
 # Classroom Object Oriented Language (COOL) Compiler
-
+![](pic.pmg)
 ## Table of Contents
 - [About the Project](#about-the-project)
   - [A Stack Machine written in COOL](#a-stack-machine-written-in-cool)
