@@ -52,7 +52,3 @@ Phase two involves building a COOL parser using Bison. This parser defines the l
 ### Phase Three: Semantical Analysis
 In the final phase, we've implemented COOL's static semantics. The semantic analyzer checks that a program adheres to COOL specifications, rejecting erroneous programs and annotating the AST with types. It also detects various semantic errors possible in COOL.
 
-For comprehensive details on each phase, please consult the respective README files.
-
-## Contact
-For any inquiries or feedback, please feel free to reach out to us. We value your input and are here to assist you in your compiler project journey.
